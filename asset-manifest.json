@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/dqflex-front/static/css/main.190e8e4e.chunk.css",
+    "main.js": "/dqflex-front/static/js/main.f1e4d720.chunk.js",
+    "main.js.map": "/dqflex-front/static/js/main.f1e4d720.chunk.js.map",
+    "runtime-main.js": "/dqflex-front/static/js/runtime-main.3b4a0277.js",
+    "runtime-main.js.map": "/dqflex-front/static/js/runtime-main.3b4a0277.js.map",
+    "static/js/2.163b2658.chunk.js": "/dqflex-front/static/js/2.163b2658.chunk.js",
+    "static/js/2.163b2658.chunk.js.map": "/dqflex-front/static/js/2.163b2658.chunk.js.map",
+    "index.html": "/dqflex-front/index.html",
+    "static/css/main.190e8e4e.chunk.css.map": "/dqflex-front/static/css/main.190e8e4e.chunk.css.map",
+    "static/js/2.163b2658.chunk.js.LICENSE.txt": "/dqflex-front/static/js/2.163b2658.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b4a0277.js",
+    "static/js/2.163b2658.chunk.js",
+    "static/css/main.190e8e4e.chunk.css",
+    "static/js/main.f1e4d720.chunk.js"
+  ]
+}
